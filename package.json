@@ -1,0 +1,25 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "Landing page for web development company ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitronalldak/landing-chain.git"
+  },
+  "keywords": [
+    "Web"
+  ],
+  "author": "Petr Ryabinin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pitronalldak/landing-chain/issues"
+  },
+  "homepage": "https://github.com/pitronalldak/landing-chain#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
